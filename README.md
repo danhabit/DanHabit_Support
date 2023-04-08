@@ -31,7 +31,7 @@ DanHabit@163.com
 
 ### Privacy Policy & Terms of Use
 
-[Privacy Policy, English](Privacy Policy EN.md)
+[Privacy Policy, English](https://github.com/danhabit/DanHabit_Support.github.io/blob/main/Privacy%20Policy%20EN.md)
 
 [Terms of Use, English](Privacy Policy ZH.md)
 
