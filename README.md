@@ -7,9 +7,9 @@ At DanHabit, our mission is to empower users to develop self-driven habits. We s
 
 ### What we want you to do. 
 
-    0. Plan your day in the morning and mark finished at night.
-    0. Try not to fill your plan. Instead, start with something easy, then gradually raise your goal.
-    0. If you don’t feel good, it’s ok to skip the plan. But always try first, and we will remind you in our app.
+    1. Plan your day in the morning and mark finished at night.
+    2. Try not to fill your plan. Instead, start with something easy, then gradually raise your goal.
+    3. If you don’t feel good, it’s ok to skip the plan. But always try first, and we will remind you in our app.
 
 
 ### Key Features:
@@ -33,9 +33,9 @@ DanHabit@163.com
 
 [Privacy Policy, English](https://github.com/danhabit/DanHabit_Support.github.io/blob/main/Privacy%20Policy%20EN.md)
 
-[Terms of Use, English](https://github.com/danhabit/DanHabit_Support.github.io/blob/main/Privacy%20Policy%20ZH.md)
+[Terms of Use, English](https://github.com/danhabit/DanHabit_Support.github.io/blob/main/Terms%20of%20Service%20EN.md)
 
-[Privacy Policy, Chinese](https://github.com/danhabit/DanHabit_Support.github.io/blob/main/Terms%20of%20Service%20EN.md)
+[Privacy Policy, Chinese](https://github.com/danhabit/DanHabit_Support.github.io/blob/main/Privacy%20Policy%20ZH.md)
 
 [Terms of Use, Chinese](https://github.com/danhabit/DanHabit_Support.github.io/blob/main/Terms%20of%20Service%20ZH.md)
 
