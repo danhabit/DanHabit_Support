@@ -33,12 +33,12 @@ DanHabit@163.com
 
 [Privacy Policy, English](https://github.com/danhabit/DanHabit_Support.github.io/blob/main/Privacy%20Policy%20EN.md)
 
-[Terms of Use, English](Privacy Policy ZH.md)
+[Terms of Use, English](https://github.com/danhabit/DanHabit_Support.github.io/blob/main/Privacy%20Policy%20ZH.md)
 
-[Privacy Policy, Chinese](Terms of Service EN.md)
+[Privacy Policy, Chinese](https://github.com/danhabit/DanHabit_Support.github.io/blob/main/Terms%20of%20Service%20EN.md)
 
-[Terms of Use, Chinese](Terms of Service ZH.md)
-# DanHabit_Support.github.io
+[Terms of Use, Chinese](https://github.com/danhabit/DanHabit_Support.github.io/blob/main/Terms%20of%20Service%20ZH.md)
+
 
 
 
