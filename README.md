@@ -31,11 +31,14 @@ DanHabit@163.com
 
 ### Privacy Policy & Terms of Use
 
-[Privacy Policy, English]()
+[Privacy Policy, English](Privacy Policy EN.md)
 
-[Terms of Use, English]()
+[Terms of Use, English](Privacy Policy ZH.md)
 
-[Privacy Policy, Chinese]()
+[Privacy Policy, Chinese](Terms of Service EN.md)
 
-[Terms of Use, Chinese]()
+[Terms of Use, Chinese](Terms of Service ZH.md)
 # DanHabit_Support.github.io
+
+
+
